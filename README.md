@@ -8,8 +8,8 @@
 
 ## Links
 
-- **Live Demo:** [PASTE_YOUR_GITHUB_PAGE_LINK_HERE]
-- **Source Code:** [PASTE_YOUR_GITHUB_REPO_LINK_HERE]
+- **Live Demo:** [https://judethesleeper.github.io/sales-app/]
+- **Source Code:** [https://github.com/judethesleeper/sales-app]
 
 ## Project Overview
 
@@ -28,15 +28,15 @@ A React-based web application to track sales and visualize business performance 
 
 ### Dashboard (Sales Trends)
 
-![Dashboard Main](./screenshots/dashboard-main.jpg)
+![Dashboard Main](screenshots/dashboard-main.png)
 
 ### Dashboard (Product & Category Analysis)
 
-![Dashboard Charts](./screenshots/dashboard-charts.jpg)
+![Dashboard Charts](screenshots/dashboard-charts.png)
 
 ### Sales Journal (Transaction History)
 
-![Journal](./screenshots/journal.jpg)
+![Journal](/screenshots/journal.png)
 
 ## Tech Stack
 

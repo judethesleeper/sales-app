@@ -25,7 +25,7 @@ function App() {
   };
 
   return (
-    <Router>
+    <Router basename="/sales-app">
       <div className="min-h-screen bg-gray-100 font-sans text-gray-900">
         <nav className="bg-blue-600 text-white shadow-lg sticky top-0 z-50">
           <div className="container mx-auto px-4 py-3 flex justify-between items-center">
